@@ -22,7 +22,7 @@ switch (nomeCompleto) {
         console.log("Nome imcompleto");
         break;
 }
-/* let count = 0;
+let count = 0;
 while (count < 100) {
     console.log(count);
     count++;
@@ -31,4 +31,4 @@ while (count < 100) {
 const vetor = [10, 20, 30, 40, 50];
 for (let valor of vetor) {
     console.log(valor);
-} */
+}
